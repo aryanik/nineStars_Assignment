@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import "../styles/navbar.css";
+import "../styles/navBar.css";
 import { CATEGORIES } from "../utils/Constants";
 
 const NavBar = ({ onCategoryChange }) => {
