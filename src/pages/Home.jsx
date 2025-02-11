@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import useArticles from "../hooks/useArticles";
+import useArticles from "../hooks/UseArticles";
 import HeadingNews from "../components/HeadingNews";
 import TrendingNews from "../components/TrendingNews";
 import "../styles/home.css";
