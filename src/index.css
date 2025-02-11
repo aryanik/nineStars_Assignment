@@ -1,0 +1,12 @@
+#app-layout{
+    display: grid;
+    grid-template-rows: auto 1fr;
+    height: 100vh;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+}
+
